@@ -1,0 +1,1 @@
+<a href="<?php echo e(url('/')); ?>"><img src="img/logo.png" alt="Logo Loading..."></a><?php /**PATH C:\xampp\htdocs\MailFashion\vendor\laravel\jetstream\src/../resources/views/components/authentication-card-logo.blade.php ENDPATH**/ ?>

@@ -1,0 +1,22 @@
+.page-404{
+    background-image: url(../images/404-bg.jpg);
+    background-position: center center;
+}
+.content-404{
+    max-width: 570px;
+    padding: 100px 0 290px;
+    display: block;
+    text-align: center;
+}
+.content-404 .heading{
+    font-size:90px;
+    font-weight:700;
+    margin-bottom:13px;
+    color:#e73918
+}
+.content-404 .title{
+    font-size:36px;
+    font-weight:700;
+    margin-bottom:20px;
+    color: #222222;
+}
